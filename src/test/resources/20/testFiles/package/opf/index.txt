@@ -1,1 +1,3 @@
 Index of revamped test files:
+- bad-mediatype-for-ncx.epub 
+- toc-attribute-missing-in-spine.epub
